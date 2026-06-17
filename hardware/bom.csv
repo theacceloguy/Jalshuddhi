@@ -1,0 +1,23 @@
+Ref,Component,Subsystem,Qty,Notes / Spec,Open or Third-party
+F1,Y-type screen filter,Filtration,1,Coarse pre-screen on intake,Third-party
+F2,Pre-filter (spun PP),Filtration,1,Push-fit transparent housing,Third-party
+F3,Sediment cartridge,Filtration,1,5 micron sediment stage,Third-party
+F4,Pre-carbon cartridge,Filtration,1,Granular activated carbon,Third-party
+F5,Post-carbon cartridge,Filtration,1,Polishing carbon stage,Third-party
+F6,UF membrane,Filtration,1,Ultrafiltration ~0.01 micron,Third-party
+F7,UV lamp kit,Disinfection,1,UV-C lamp + ballast (shrouded),Third-party
+P1,Submersible pump,Fluid control,1,Intake pump for raw water,Third-party
+P2,Booster pump,Fluid control,1,~100 GPD RO booster pump,Third-party
+V1,Solenoid valve,Fluid control,1,24 V normally-closed diverter,Third-party
+T1,Pipe + push-fit connectors,Fluid control,1,1/4 in tubing + fittings kit,Third-party
+S1,Analog pH probe,Sensing,1,Gravity-type analog pH board,Third-party
+S2,Analog TDS probe,Sensing,1,Gravity-type analog TDS board,Third-party
+S3,Turbidity sensor,Sensing,1,SEN0189-class analog sensor,Third-party
+S4,Temperature probe,Sensing,1,DS18B20 waterproof + 4.7k pull-up,Third-party
+U1,ESP32 DevKit,Electronics,1,ESP32-WROOM-32 38-pin,Third-party
+U2,LCD display,Electronics,1,16x2 character LCD with I2C backpack,Third-party
+U3,Relay board,Electronics,1,4-channel opto-isolated relay module,Third-party
+U4,24 V adapter,Power,1,Mains to 24 V DC supply,Third-party
+U5,Buck converter,Power,1,24 V to 5 V/3.3 V for logic,Third-party
+E1,Enclosure (modular),Enclosure,1,3D-printed; CAD source in hardware/cad,CREATOR (open)
+W1,Wiring + terminals,Electronics,1,Hook-up wire, ferrules, fuse holder,Third-party
